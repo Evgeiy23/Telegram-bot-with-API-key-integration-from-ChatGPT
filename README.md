@@ -14,4 +14,4 @@ Requirement:
 
 1. Python 3.11 or higher
 2. Telegram bot API key
-3. The ChatGPT API key from openair
+3. The ChatGPT API key from OpenAI
